@@ -6,4 +6,6 @@ thoughts:
 
 Gin -compared to standard net/http- makes it very easy and straightfoward to define routes and their handlers, and it does a lot under the hood.
 
+Watch the tutorial I followed [here](https://youtu.be/d_L64KT3SFM)
+
 Happy coding :)
